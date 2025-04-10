@@ -1,0 +1,16 @@
+../Src/main.c:113:6:turn_on_TIM15	4	static
+../Src/main.c:121:6:turn_off_TIM15	4	static
+../Src/main.c:131:6:init_TIM15	4	static
+../Src/main.c:167:6:write_to_7s	16	static
+../Src/main.c:175:6:increment_digits	4	static
+../Src/main.c:187:6:turn_off_7ss	4	static
+../Src/main.c:192:6:init_seven_segments	16	static
+../Src/main.c:200:6:init_TIM6	4	static
+../Src/main.c:213:6:init_UART4	4	static
+../Src/main.c:233:6:turn_on_alerts	8	static
+../Src/main.c:238:6:turn_off_alerts	8	static
+../Src/main.c:249:6:__enable_irq	4	static,ignoring_inline_asm
+../Src/main.c:257:6:TIM15_IRQHandler	16	static
+../Src/main.c:278:6:TIM6_IRQHandler	8	static
+../Src/main.c:304:6:UART4_IRQHandler	16	static
+../Src/main.c:318:5:main	8	static,ignoring_inline_asm

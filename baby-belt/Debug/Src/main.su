@@ -1,0 +1,16 @@
+../Src/main.c:147:6:turn_off_the_system	8	static
+../Src/main.c:154:6:turn_on_the_system	16	static
+../Src/main.c:164:6:toggle_the_system	8	static
+../Src/main.c:173:6:TIM15_IRQHandler	8	static
+../Src/main.c:213:6:TIM6_initialization	4	static
+../Src/main.c:225:6:TIM6_IRQHandler	4	static
+../Src/main.c:230:6:TIM15_initialization	4	static
+../Src/main.c:269:6:UART4_initialization	4	static
+../Src/main.c:298:6:init_risk_signal	4	static
+../Src/main.c:306:6:send_risk_signal	4	static
+../Src/main.c:313:6:send_no_risk_signal	4	static
+../Src/main.c:320:6:init_ADC	4	static
+../Src/main.c:352:5:calculate_risk	24	static
+../Src/main.c:383:6:ADC1_2_IRQHandler	8	static
+../Src/main.c:412:6:__enable_irq	4	static,ignoring_inline_asm
+../Src/main.c:421:5:main	8	static,ignoring_inline_asm
